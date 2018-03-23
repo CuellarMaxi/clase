@@ -1,0 +1,15 @@
+http://rogerdudler.github.io/git-guide/index.es.html
+
+git bash
+
+pwd   =donde estas
+cd /d= cambiar al disco D
+ls   =lista de cosas
+
+1= git clone 
+
+2= git add-A 
+
+3= git commit -m "texto mensaje" =foto "blablabla"
+
+4= git push origin master
